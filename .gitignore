@@ -1,0 +1,27 @@
+# Temporary files and logs
+*.log
+*.logs
+*.tmp
+*.autosave
+logs/
+log/
+
+# Mex files
+*.mexw32
+*.mexw64
+*.mexa64
+
+# Folders and files generated during the building process
+Opcommon/
+report/
+OpREDHAWK64target/
+OpNTtarget/
+slprj/
+*_sm_*.mdl
+*_ss_*.mdl
+*_sc_*.mdl
+*.slxc
+*_sm_*.slx
+*_ss_*.slx
+*_sc_*.slx
+*.slx.r*
