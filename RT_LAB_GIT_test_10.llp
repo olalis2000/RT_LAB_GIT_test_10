@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+    <General>
+        <att_name>RT_LAB_GIT_test_10</att_name>
+        <att_description></att_description>
+        <att_ip_address>10.168.24.60:25266</att_ip_address>
+        <att_hashcode>DBBBB7B4-B2F7-49CB-8CD4-A86CD6340170</att_hashcode>
+        <att_autosave>ON</att_autosave>
+        <att_project_locked>0</att_project_locked>
+        <att_filename>C:\Users\Grogu\Documents\Aleksandra\RT_LAB_GIT_test_10\RT_LAB_GIT_test_10.llp</att_filename>
+    </General>
+    <Optionals>
+        <att_donotask_loadcfg_at_prjopen>0</att_donotask_loadcfg_at_prjopen>
+        <att_matlab_compile_outprocess>OFF</att_matlab_compile_outprocess>
+        <att_donotremind_labviewdeprecated>FALSE</att_donotremind_labviewdeprecated>
+    </Optionals>
+    <Models>
+        <Model>
+            <Path>
+                <Relative>models/Boost_and_Two_Level_Inverter_Sfun/Boost_and_Two_Level_Inverter_IO.slx</Relative>
+                <Absolute>C:/Users/Grogu/Documents/Aleksandra/RT_LAB_GIT_test_10/models/Boost_and_Two_Level_Inverter_Sfun/Boost_and_Two_Level_Inverter_IO.slx</Absolute>
+                <UNC>C:/Users/Grogu/Documents/Aleksandra/RT_LAB_GIT_test_10/models/Boost_and_Two_Level_Inverter_Sfun/Boost_and_Two_Level_Inverter_IO.slx</UNC>
+            </Path>
+        </Model>
+    </Models>
+</Project>
